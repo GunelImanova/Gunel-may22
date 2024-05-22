@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    gap: 2%;
+}
+.link1{
+    display: flex;
+    gap: 8%;
+    cursor: pointer;
+}
+.link{
+    margin-left: 40%;
+    margin-top:2%;
+}
+.coloshop{
+    color: red;
+    font-size: 35px;
+    margin: 1%;
+}
+.icon{
+ margin-left: 10%;
+ margin-top: 2%;
+ font-size: 20px;
+ display: flex;
+}
+.icon1{
+    display: flex;
+    gap: 25%;
+}
+.link1 li:hover{
+    color: gray;
+    cursor: pointer;
+}

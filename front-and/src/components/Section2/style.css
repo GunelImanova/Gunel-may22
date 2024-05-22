@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.section2-img{
+    width: 50%;
+    height: 500px;
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/deal_ofthe_week.png.webp");
+    margin-left: 15%;
+    background-repeat: no-repeat;
+}
+.section2{
+    margin-top: 10%;
+    background-color: rgb(242,242,242);
+    display: flex;
+}
+.timer-text{
+    color: black;
+    font-size: 45px;
+    margin-top: 25%;
+}
+.displayflexed-times{
+    display: flex;
+    gap: 3%;
+    width: 100%;
+    height: 40%;
+}
+.clock{
+   gap: 5%;
+}
